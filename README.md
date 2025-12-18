@@ -2,4 +2,4 @@
 
 ---
 
-### Gate Smashers Videos finished upto no 10
+### Gate Smashers Videos finished upto no 23 and (47-51 = 5 videos)
