@@ -138,3 +138,4 @@ So Master Theorem is just:
 ---
 
 
+![](./images/7.jpeg)

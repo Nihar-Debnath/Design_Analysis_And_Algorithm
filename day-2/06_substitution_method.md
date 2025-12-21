@@ -1,7 +1,7 @@
 ![](./images/3.jpeg)
-![](./images/WhatsApp%20Image%202025-12-17%20at%2011.28.27%20PM.jpeg)\
+![](./images/1.jpeg)
 
--\--
+---
 ---
 ---
 
@@ -66,10 +66,10 @@ Plug it in:
 
 \[
 \begin{aligned}
-\T(n)
+T(n)
 &= T(n-3) + \log(n-2) + \log(n-1) + \log n
 \end{aligned}
-]
+\]
 
 ---
 
@@ -79,10 +79,10 @@ After expanding **k times**, we get:
 
 \[
 \begin{aligned}
-\T(n)
+T(n)
 &= T(n-k) + \log(n-k+1) + \log(n-k+2) + \dots + \log n
 \end{aligned}
-]
+\]
 
 Each step:
 
@@ -103,10 +103,10 @@ So substitute (k = n-1):
 
 \[
 \begin{aligned}
-\T(n)
+T(n)
 &= T(1) + \log 2 + \log 3 + \log 4 + \dots + \log n
 \end{aligned}
-]
+\]
 
 Replace `T(1)` with constant `c`:
 
@@ -128,8 +128,8 @@ So:
 
 \[
 \log 2 + \log 3 + \dots + \log n
-\= \log(2 \cdot 3 \cdot 4 \cdots n)
-]
+= \log(2 \cdot 3 \cdot 4 \cdots n)
+\]
 
 That product is:
 
