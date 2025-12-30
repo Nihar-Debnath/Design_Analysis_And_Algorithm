@@ -21,9 +21,9 @@ Consider this rule:
 
 > “Each number is double the previous one”
 
-[
+\[
 f(n) = 2f(n-1)
-]
+\]
 
 This is a **recurrence relation** because:
 
@@ -79,9 +79,9 @@ Here:
 
 So we write:
 
-[
+\[
 T(n) = T(n-1) + c
-]
+\]
 
 This is a **recurrence relation**.
 

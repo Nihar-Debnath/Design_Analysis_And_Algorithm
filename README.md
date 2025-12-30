@@ -2,4 +2,8 @@
 
 ---
 
-### Gate Smashers Videos finished upto no 41 and (47-51 = 5 videos)
+### Gate Smashers Videos finished upto no 68
+
+---
+
+### Hevent understood the knapsack problems properly in dp

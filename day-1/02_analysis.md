@@ -1,8 +1,3 @@
-Great question 👏 — the word **“analysis”** is used a lot in computer science, algorithms, and even general problem solving.
-Let’s break it down in **simple terms** and then understand **what it means in different contexts**.
-
----
-
 ## 🧠 **Basic Meaning of Analysis**
 
 **Analysis** means:
@@ -105,7 +100,3 @@ similarly, computer scientists **analyze algorithms** to pick the best one.
 | **Analysis**           | Careful study or examination of something.                      |
 | **Algorithm Analysis** | Studying how an algorithm performs (speed, memory, etc.).       |
 | **Goal**               | To find the most efficient and reliable way to solve a problem. |
-
----
-
-Would you like me to explain **“Time Complexity”** (the main part of algorithm analysis) next — with examples like O(1), O(n), O(log n)?

@@ -7,8 +7,8 @@
 You are given a set of **jobs**.
 Each job has:
 
-* **Deadline** ( d_i ) → by when the job must be finished
-* **Profit** ( p_i ) → profit earned if the job is completed
+* **Deadline** \( d_i \) → by when the job must be finished
+* **Profit** \( p_i \) → profit earned if the job is completed
 * **Time required** → **1 unit** (very important assumption)
 
 ---
@@ -156,9 +156,9 @@ Slot 3 → J5
 
 ## 🔢 Total Profit Calculation
 
-[
+\[
 27 + 100 + 15 = \boxed{142}
-]
+\]
 
 ---
 
@@ -192,12 +192,12 @@ JobSequencing(jobs):
 
 ## 1️⃣2️⃣ Time Complexity
 
-* Sorting jobs: ( O(n \log n) )
-* Slot checking: ( O(n \times d) )
+* Sorting jobs: \( O(n \log n) \)
+* Slot checking: \( O(n \times d) \)
 
 If optimized with DSU:
 
-* ( O(n \log n) )
+* \( O(n \log n) \)
 
 ---
 
@@ -323,9 +323,9 @@ Now slot 3 → J5 (15)
 
 ### Total profit:
 
-[
+\[
 25 + 19 + 15 = 59 ❌
-]
+\]
 
 But we **missed J1 (profit 100)** 🤦‍♂️
 
@@ -468,9 +468,9 @@ Slot 3 free → place it
 ## 8️⃣ Why this solution is OPTIMAL
 
 Final profit:
-[
+\[
 27 + 100 + 15 = 142
-]
+\]
 
 Try **any other combination** of 3 jobs:
 

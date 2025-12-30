@@ -213,7 +213,7 @@ $$
 
 Now substitute this back:
 $$
-T(n) = $$T(n/4) + c$$ + c = T(n/4) + 2c
+T(n) =T(n/4) + c + c = T(n/4) + 2c
 $$
 
 ### Step 3: Do one more substitution

@@ -27,9 +27,9 @@ Here are the most common **time complexity classes**, starting from the **fastes
 
 Here’s how they are **arranged from smallest (fastest)** to **largest (slowest)**:
 
-[
+\[
 O(1) \ < \ O(\log n) \ < \ O(n) \ < \ O(n \log n) \ < \ O(n^2) \ < \ O(n^3) \ < \ O(2^n) \ < \ O(n!)
-]
+\]
 
 ---
 
