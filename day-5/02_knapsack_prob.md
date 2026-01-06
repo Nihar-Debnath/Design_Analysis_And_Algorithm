@@ -64,9 +64,9 @@ You **can take fractions** of items.
 
 👉 **Choose items based on maximum profit per unit weight**
 
-[
+\[
 \text{Profit Density} = \frac{p}{w}
-]
+\]
 
 ---
 
@@ -81,9 +81,9 @@ You **can take fractions** of items.
 👉 Sort items in **descending order of ( \frac{p}{w} )**
 
 Order:
-[
+\[
 \text{Item 1} \rightarrow \text{Item 2} \rightarrow \text{Item 3}
-]
+\]
 
 ---
 
@@ -107,13 +107,13 @@ Order:
 
 * Needed weight = 20 out of 30
 * Fraction taken:
-  [
+  \[
   \frac{20}{30} = \frac{2}{3}
-  ]
+  \]
 * Profit gained:
-  [
+  \[
   120 \times \frac{2}{3} = 80
-  ]
+  \]
 
 ---
 

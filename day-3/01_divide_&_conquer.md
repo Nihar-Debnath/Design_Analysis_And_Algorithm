@@ -82,9 +82,9 @@ Divide and Conquer algorithms usually have:
 
 When we analyze divide and conquer algorithms, we get a **recurrence relation**:
 
-[
+\[
 T(n) = aT(n/b) + f(n)
-]
+\]
 
 Where:
 

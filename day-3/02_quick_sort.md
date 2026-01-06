@@ -145,9 +145,9 @@ Final sorted array:
 ## 7️⃣ Recurrence Relation of Quick Sort (DAA view)
 
 General form:
-[
+\[
 T(n) = T(k) + T(n-k-1) + cn
-]
+\]
 
 Where:
 
@@ -165,14 +165,14 @@ This shows Quick Sort is **divide and conquer**, but **not always balanced**.
 Pivot divides array into **two equal halves** every time.
 
 Recurrence:
-[
+\[
 T(n) = 2T(n/2) + cn
-]
+\]
 
 ⏱ Time Complexity:
-[
+\[
 \boxed{O(n \log n)}
-]
+\]
 
 ---
 
@@ -181,9 +181,9 @@ T(n) = 2T(n/2) + cn
 Pivot divides array **reasonably well** (not perfect).
 
 ⏱ Time Complexity:
-[
+\[
 \boxed{O(n \log n)}
-]
+\]
 
 This is why Quick Sort is popular.
 
@@ -198,14 +198,14 @@ Worst case happens when:
 * bad pivot selection
 
 Recurrence:
-[
+\[
 T(n) = T(n-1) + cn
-]
+\]
 
 ⏱ Time Complexity:
-[
+\[
 \boxed{O(n^2)}
-]
+\]
 
 ---
 

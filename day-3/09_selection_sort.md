@@ -99,10 +99,10 @@ Let ( n ) = number of elements
 ### 🔹 Number of Comparisons
 
 Always:
-[
+\[
 (n-1) + (n-2) + \dots + 1
 = \frac{n(n-1)}{2}
-]
+\]
 
 ---
 
@@ -111,17 +111,17 @@ Always:
 Already sorted array
 Comparisons still performed
 
-[
+\[
 \boxed{O(n^2)}
-]
+\]
 
 ---
 
 ### 🔹 Average Case
 
-[
+\[
 \boxed{O(n^2)}
-]
+\]
 
 ---
 
@@ -129,9 +129,9 @@ Comparisons still performed
 
 Reverse sorted array
 
-[
+\[
 \boxed{O(n^2)}
-]
+\]
 
 📌 **Key Point:**
 Selection Sort time complexity is **input-independent**
@@ -143,9 +143,9 @@ Selection Sort time complexity is **input-independent**
 * Uses only a few variables
 * No extra array
 
-[
+\[
 \boxed{O(1)}
-]
+\]
 
 ✔ **In-place sorting**
 
@@ -200,9 +200,9 @@ After sorting:
 ## 9️⃣ Swaps vs Comparisons (GATE Favorite)
 
 * **Comparisons:**
-  [
+  \[
   \frac{n(n-1)}{2}
-  ]
+  \]
 * **Swaps:**
   At most **( n-1 )**
 

@@ -46,9 +46,7 @@ A problem can be solved using a greedy approach **only if** it satisfies:
 ### 🔸 Problem
 
 You are given coins of denominations:
-[
 {1, 2, 5, 10}
-]
 
 You need to make **₹18** using the **minimum number of coins**.
 
@@ -74,9 +72,7 @@ At every step, pick the **largest coin** that does not exceed the remaining amou
 ### 🔸 Final Answer
 
 Coins used:
-[
 10 + 5 + 2 + 1 = 18
-]
 
 **Number of coins = 4 (minimum)** ✅
 
@@ -86,15 +82,11 @@ Coins used:
 
 ### Coins:
 
-[
 {1, 3, 4}
-]
 
 ### Target:
 
-[
 6
-]
 
 #### Greedy Solution:
 
